@@ -26,6 +26,7 @@ char *str_cat(char *s1 , char *s2){
         s[s1_length + i] = s2[i];
     }
     s[size - 1] = '\0';
+    free(s);
 
     return s;
 }
