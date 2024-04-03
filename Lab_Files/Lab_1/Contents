@@ -1,0 +1,8 @@
+String Operations in C
+
+>> String Copy: Copies one string into another.
+>> Finding Length: Determines the length of a string.
+>> Reversing a String: Reverses the order of characters in a string.
+>> Checking for Palindrome: Checks if a string is the same when read forwards and backwards.
+>> Concatenating Strings: Combines two strings end to end.
+>> Finding the Occurrence of a Sub-string: Searches for a sub-string within a larger string.
