@@ -33,10 +33,10 @@ Prepare for casual class tests by accessing question papers uploaded here. These
 ## Faculties
 
 ### Lectures
-- **Dr. JP Patra**
+- **Dr. JP Patra**\
   Dr. Patra leads the lectures for this course, bringing a wealth of knowledge and experience to the classroom. His expertise ensures that you receive comprehensive instruction and guidance throughout your learning journey.
 
 ### Labs
-- **Mr. Abhinaw Jagtap**
+- **Mr. Abhinaw Jagtap**\
   Mr. Jagtap oversees the practical sessions in the lab, offering valuable insights and assistance as you engage with data structures firsthand. His support ensures a conducive environment for exploration and learning.
 
