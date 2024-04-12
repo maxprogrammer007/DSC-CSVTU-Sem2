@@ -9,7 +9,7 @@ int main(void){
     int i, j, temp, min;
 
     for(i = 0; i < n - 1; i++){
-        min = i;
+        min = a[i];
         for(j = i + 1; j < n; j++){
             if(a[j] < a[min]){
                 min = j;
